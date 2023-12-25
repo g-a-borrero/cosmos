@@ -13,5 +13,6 @@ Some Factors include:
 * Geography
 * Community
 * Family
+* Species
 
 Each of these play a role in the creation process of both PCs and NPCs.
