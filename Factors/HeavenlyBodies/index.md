@@ -4,6 +4,8 @@ has_children: false
 nav_order: 1
 ---
 
+# Heavenly Bodies
+
 Where exactly does a character hail from? Did they grow up in space, or on a planet? There are effects for each.
 
 This chart shows the Movement Speed for a given character based on their origin (left-most column) and their current location.
