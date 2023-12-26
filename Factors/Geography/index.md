@@ -14,6 +14,7 @@ There exists a wide variety of biomes to be found across the universe, some of w
 ## Land
 
 * Canyon
+* Cave
 * Desert
 * Field
 * Forest
@@ -32,6 +33,7 @@ There exists a wide variety of biomes to be found across the universe, some of w
 ## Underwater
 
 * Canyon
+* Cave
 * Field
 * Forest
 * Lake
