@@ -6,16 +6,10 @@ nav_order: 3
 
 There exists a wide variety of biomes to be found across the universe, some of which have not been explored here.
 
-## Underwater
+## Air
 
-* Canyon
-* Field
-* Forest
-* Lake
-* Mountain
-* Pond
-* Sea
-* Volcano
+* Island
+* Sky Turtle
 
 ## Land
 
@@ -28,14 +22,20 @@ There exists a wide variety of biomes to be found across the universe, some of w
 * Savannah
 * Volcano
 
-## Air
-
-* Island
-* Sky Turtle
-
 ## Space
 
 * Field
 * Planetary Ring
 * Space Station
 * Stellar Nursery
+
+## Underwater
+
+* Canyon
+* Field
+* Forest
+* Lake
+* Mountain
+* Pond
+* Sea
+* Volcano
