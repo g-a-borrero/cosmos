@@ -1,6 +1,7 @@
 ---
 title: Cave
-has_children: false
+parent: Geography
+grand_parent: Factors
 ---
 
 # Cave
