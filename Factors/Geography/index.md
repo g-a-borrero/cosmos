@@ -11,8 +11,9 @@ There exists a wide variety of biomes to be found across the universe, some of w
 
 ## Air
 
+* Atmosphere
 * Island
-* Sky Turtle
+* Sky Beast
 
 ## Land
 
