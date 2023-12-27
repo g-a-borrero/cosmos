@@ -1,6 +1,7 @@
 ---
 title: Canyon
-has_children: false
+parent: Geography
+grand_parent: Factors
 ---
 
 # Canyon
