@@ -2,6 +2,7 @@
 title: Skill Checks
 parent: Introduction
 has_children: false
+nav_order: 2
 ---
 
 # Skill Checks
