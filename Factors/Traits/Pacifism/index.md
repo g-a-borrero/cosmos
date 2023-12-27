@@ -7,6 +7,8 @@ has_children: false
 
 # Pacifism
 
+*Combat, Social.*
+
 A character who avoids fighting when possible, but is not afraid to defend themselves.
 
 ## Effects
