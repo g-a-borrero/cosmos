@@ -8,7 +8,7 @@ nav_order: 2
 
 # Actions
 
-In combat, you must do two posts and a roll. Post, roll, post. The first post is to declare your intent, the roll is to determine the success of that intent, and then the second post is to express the success or failure of that roll. Combat is one of the few times a GM just patiently waits for their turn to control NPCs.
+In combat, you must do two posts and an optional roll. Post, roll?, post. The first post is to declare your intent, the roll is to determine the success of that intent if it's required, and then the second post is to express the success or failure of that roll or intent. Combat is one of the few times a GM just patiently waits for their turn to control NPCs.
 
 ## Types of Actions
 
@@ -23,6 +23,8 @@ At the start of combat, your GM will inform you what the difficulty is for all t
 * **Magic, Psi:** Intelligence
 * **Guns, Blasters:** Dexterity
 * **Theurgy:** Wisdom
+
+If an attack is successful, roll for damage before your second post and denote how much damage your target is taking.
 
 ### Defend
 
@@ -39,3 +41,11 @@ You may choose to use an item on yourself or a fellow PC if they are within 5 ft
 ### Movement
 
 Your character may move using Flying, Swimming, or Walking depending on their environment. Indicate which direction they are going and how far. The maximum movement you can make is based on your individual character and their current environment.
+
+### Skill Check
+
+You can choose to perform a Skill Check in the middle of combat.
+
+### Utility
+
+This is when your character does something to support themselves or another character, whether it be blocking another character with a shield or casting a healing spell.
