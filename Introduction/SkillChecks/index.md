@@ -12,8 +12,8 @@ Those familiar with Ironsworn will definitely see the influence here in how skil
 
 Luckily, this game is run using the Power of the Internet (TM) so the dice being used are easily accessible via various dice rollers, either as Discord Bots, forum functionalities, or websites. What you will need to play in-person (why would you do this?) are:
 
-* Eight 20-sided die
-* Two sets of 100-sided die
+* Eight 20-sided die (or one 20-sided die and something to write on)
+* Two sets of 100-sided die (or one set of 100-sided die and something to write on)
 
 ## How it Works
 
