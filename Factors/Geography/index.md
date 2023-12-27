@@ -1,5 +1,6 @@
 ---
 title: Geography
+parent: Factors
 has_children: true
 nav_order: 3
 ---
