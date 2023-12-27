@@ -13,5 +13,5 @@ A character who avoids fighting when possible, but is not afraid to defend thems
 
 ## Effects
 
-* Last in Combat
+* Last in Initiative
 * Diplomacy + 1
