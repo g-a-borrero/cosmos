@@ -6,7 +6,7 @@ has_children: false
 
 # Aiming
 
-Useful in combat but also when throwing things, Aiming is a versatile skill.
+Useful in combat but also when throwing things, Aiming is a versatile skill. There is no Sub-Skill for throwing items.
 
 ## Melee
 
