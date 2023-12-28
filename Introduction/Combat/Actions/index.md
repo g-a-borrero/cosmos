@@ -28,11 +28,13 @@ If an attack is successful, roll for damage before your second post and denote h
 
 ### Defend
 
-If you have nothing to defend yourself with, increase the Challenge Score to hit you by 5. If you have something to defend yourself with, use that instead to increase your Challenge Score.
+If you have nothing to defend yourself with, increase the Challenge Score to hit you by 5. If you have something to defend yourself with, use that instead to increase your Challenge Score. On a strong hit, your defensive item is destroyed or you take 1.5x damage.
 
 ### Dodge
 
 Increase your Challenge Score to hit you by your Dexterity and the difference between your and your attacker's Flying, Swimming, or Walking speeds depending on the current environments you are each in. So if you are in water with a Swimming speed of 25 ft. and your attacker is on land with a Walking speed of 20 ft., and your Dexterity is 10, your attacker's Challenge Scores will be 15 points higher. However, if your Swimming Speed was 20 ft. and their Walking speed is 25 ft., their Challenge Scores would be only 5 points higher. (Attacker speed - Dodger speed + Dodger Dexterity.)
+
+On a strong hit, you take twice (2x) damage.
 
 ### Item Usage
 
