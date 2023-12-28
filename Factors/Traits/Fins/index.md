@@ -9,7 +9,7 @@ has_children: false
 
 *Physical.*
 
-Your character fins, a flipper, or both, that allow for easier maneuvering in liquids. Must be functional.
+Your character has fins, a flipper, or both, that allow for easier maneuvering in liquids. Must be functional.
 
 ## Effects
 
