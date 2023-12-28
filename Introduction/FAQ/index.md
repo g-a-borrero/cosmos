@@ -9,6 +9,10 @@ nav_order: 4
 
 The questions that have been asked more than once and deserve an answer.
 
+## I see "half this, half that" but what does that mean for Movement Speed?
+
+Divide by two, round to the nearest multiple of 5. 2.5 ft. rounds up to 5 ft. 2.4 ft. rounds down to 0 ft.
+
 ## My game takes place on Earth, everyone is from Earth. What's the Movement Speed of the characters?
 
 Base Movement Speed for characters on Earth, from Earth, is 25 ft.
