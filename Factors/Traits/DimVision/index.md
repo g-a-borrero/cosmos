@@ -13,4 +13,4 @@ Your character grew up with relative darkness, occasionally getting glimpses of 
 
 ## Effects
 
-* Can see up to twice your base Movement Speed in dim light as if in full light.
+* Can see up to twice your base Movement Speed in dim light as if in regular light.
