@@ -5,7 +5,7 @@ grand_parent: Factors
 has_children: false
 ---
 
-# Dark Vision
+# Dim Vision
 
 *Physical.*
 
@@ -13,4 +13,4 @@ Your character grew up with relative darkness, occasionally getting glimpses of 
 
 ## Effects
 
-* Can see up to twice your base Movement Speed in complete darkness as if in dim light. All Skill Checks in this range have a Challenge Score increase of 10.
+* Can see up to twice your base Movement Speed in dim light as if in full light.
