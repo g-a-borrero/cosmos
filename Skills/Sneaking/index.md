@@ -6,7 +6,7 @@ has_children: false
 
 # Sneaking
 
-Being able to operate without being caught is a key component to thriving in not-well-to-do areas.
+Being able to operate without being caught is a key component to thriving in not-so-great scenarios.
 
 ## Stealth? Camouflage? Something else?
 
