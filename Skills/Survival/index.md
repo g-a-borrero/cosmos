@@ -10,7 +10,7 @@ Being able to gather what you need to survive in any environment and knowing wha
 
 ## Natural
 
-When people think of Survival skills, they imagine someone making a lean-to I'm the middle of nowhere.
+When people think of Survival skills, they imagine someone making a lean-to in the middle of nowhere.
 
 ## Space
 
