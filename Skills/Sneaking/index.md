@@ -8,10 +8,14 @@ has_children: false
 
 Being able to operate without being caught is a key component to thriving in not-so-great scenarios.
 
-## Stealth? Camouflage? Something else?
+## Camouflage
+
+Blend in with the crowd or an environment to go as unnnoticed as possible.
 
 ## Legerdemain
 
 Adeptly move and palm items without being caught, or take from another.
 
-## Needs another
+## Performance
+
+Either acting or some other form of artistic expression, used to confuse, confound, or profit off one or more people.
