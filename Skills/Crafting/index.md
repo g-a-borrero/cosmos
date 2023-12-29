@@ -16,7 +16,7 @@ Trying to earn some ⭐<sup>Insert Money Unit Here</sup> can be quite difficult.
 
 ## Clothes
 
-How you look can affect how others view you. Clothing is a great way to increase your diplomatic influence. Clothing must be actively referenced in a character's post to reap the benefits of wearing it in a social setting. Remember: You are capped at 15d20 for any Skill Check.
+How you look can affect how others view you. Clothing is a great way to increase your diplomatic influence. Clothing must be actively referenced in a character's post to reap the benefits of wearing it in a social setting. **Remember: You are capped at 7 for any Skill or Sub-Skill.**
 
 | Diplomacy | Challenge Score Increase |
 | :---: | :---: |
