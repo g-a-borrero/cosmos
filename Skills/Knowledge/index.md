@@ -10,7 +10,7 @@ A broad category for determining how much information your character can remembe
 
 ## Critters
 
-Pertaining to familiar non-sentient beings.
+Pertaining to familiar non-sapient beings.
 
 ## Energy
 
