@@ -6,7 +6,7 @@ has_children: false
 
 # Crafting
 
-Trying to earn some :star: $^{\text{Insert\ Money\ Unit\ Here}}$ can be quite difficult. A way to make money, or save money, is to make your own items! Keep in mind in order to make your own items, you will need the materials required to make them.
+Trying to earn some ⭐<sup>Insert Money Unit Here</sup> can be quite difficult. A way to make money, or save money, is to make your own items! Keep in mind in order to make your own items, you will need the materials required to make them.
 
 | Action Roll | Value |
 | :---: | :---: |
