@@ -11,5 +11,5 @@ Much like a field, a desert is vast. They are marked typically by temperature ex
 
 ## Traits
 
-* Temperature Resistance (Pick Hot or Cold)
+* Temperature Resistance
 * Survival: Natural + 1
