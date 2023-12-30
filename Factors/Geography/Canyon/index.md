@@ -13,4 +13,4 @@ Plunging deep into the ground, either in the air or beneath the waves, lies a va
 ## Traits
 
 * Dim Vision
-* Perception + 1
+* Intuition: Visceral + 1
