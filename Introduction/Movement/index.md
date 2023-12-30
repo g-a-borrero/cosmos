@@ -11,7 +11,7 @@ Getting around is a lot of fun, but knowing how to do it is important.
 
 ## Character Movement
 
-In order to determine a character's movements, we have to know some things about them. Namely, their origin [Heavenly Body](/cosmos/Factors/HeavenlyBodies), their current Heavenly Body, their origin [Atmosphere](/../Factors/Atmosphere).
+In order to determine a character's movements, we have to know some things about them. Namely, their origin [Heavenly Body](/cosmos/Factors/HeavenlyBodies), their current Heavenly Body, their origin [Atmosphere](/cosmos/Factors/Atmosphere).
 
 ### Movement Speed
 
