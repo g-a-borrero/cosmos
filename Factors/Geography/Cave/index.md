@@ -13,4 +13,4 @@ Carved into the earth, caves are dark, cold, and clammy. Light cannot be found s
 ## Traits
 
 * Dark Vision
-* Survival + 1
+* Survival: Natural + 1
