@@ -13,4 +13,4 @@ Experience in a hot or cold environment has prepared you for handling those temp
 
 ## Effects
 
-**Pick Hot or Cold. Can be taken twice, once for each.** In environs that are deemed a certain temperature (hot or cold) you experience no ill effects.
+* **Pick Hot or Cold. Can be taken twice, once for each.** In environs that are deemed a certain temperature (hot or cold) you experience no ill effects.
