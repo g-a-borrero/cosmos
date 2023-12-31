@@ -22,7 +22,6 @@ There exists a wide variety of biomes to be found across the universe, some of w
 | Mountain |  | X |  | X |
 | Planetary Ring |  |  | X |  |
 | Pond |  |  |  | X |
-| Savannah |  | X |  |  |
 | Sea |  |  |  | X |
 | Sky Beast | X |  |  |  |
 | Space Station |  |  | X |  |
