@@ -12,3 +12,5 @@ Finally, there are Traits that go into each character. These might have been det
 * Combat
 * Physical
 * Social
+
+Please note that unless a trait states otherwise, you can only take it once.
