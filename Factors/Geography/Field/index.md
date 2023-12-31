@@ -6,7 +6,7 @@ grand_parent: Factors
 
 # Field
 
-**Type:** Land, Space, Underwater. 
+**Type:** Land, Space, Water. 
 
 A wide expanse brimming with possibilities, fields are perfect for traversing in a speedy manner. Those who grew up on fields have the benefit of more room to expand.
 
