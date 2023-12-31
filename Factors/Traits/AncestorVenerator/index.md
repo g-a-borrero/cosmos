@@ -13,5 +13,6 @@ One way or another, your character has come to honor and worship the dead. These
 
 ## Effects
 
-* Select one to three ancestors that your character reveres. Establish how your character honors them. Once per day, when performing a Skill Check that calls on the wisdom of the deceased, gain one dice for your Action Roll for each ancestor mentioned.
+* Select one to three ancestors that your character reveres. Establish how your character honors them. Once per day per ancestor, when performing a Skill Check that calls on the wisdom of the deceased, gain one dice for your Action Roll for each ancestor mentioned.
   * If you attempt this but have not given your ancestors attention in the last three days, or it has been less than a day since you last used this ability, all of your ancestors will be upset with you for your abject disrespect and you will lose one dice to roll for each of the ancestors you supposedly revere.
+  * If your ancestors are upset with you, your GM will tell you how you can approach appeasing them.
