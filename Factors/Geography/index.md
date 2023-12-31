@@ -9,39 +9,22 @@ nav_order: 3
 
 There exists a wide variety of biomes to be found across the universe, some of which have not been explored here.
 
-## Air
-
-* Atmosphere
-* Island
-* Sky Beast
-
-## Land
-
-* Canyon
-* Cave
-* Desert
-* Field
-* Forest
-* Island
-* Mountain
-* Savannah
-* Volcano
-
-## Space
-
-* Field
-* Planetary Ring
-* Space Station
-* Stellar Nursery
-
-## Underwater
-
-* Canyon
-* Cave
-* Field
-* Forest
-* Lake
-* Mountain
-* Pond
-* Sea
-* Volcano
+| Geographical Feature | Air | Land | Space | Water |
+| :----------------: | :---: | :---:| :---: | :---: |
+| Atmosphere | X |  |  |  |
+| Canyon |  | X |  | X |
+| Cave |  | X |  | X |
+| Desert |  | X |  |  |
+| Field |  | X | X |  |
+| Forest |  | X |  | X |
+| Island | X | X |  |  |
+| Lake |  |  |  | X |
+| Mountain |  | X |  | X |
+| Planetary Ring |  |  | X |  |
+| Pond |  |  |  | X |
+| Savannah |  | X |  |  |
+| Sea |  |  |  | X |
+| Sky Beast | X |  |  |  |
+| Space Station |  |  | X |  |
+| Stellar Nursery |  |  | X |  |
+| Volcano |  | X |  | X |
