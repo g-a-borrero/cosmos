@@ -13,6 +13,5 @@ Moving from one point to the next is no easy task. Being able to do so in three 
 
 ## Effects
 
-* Can always orient self North
-* Can always orient self upright
-* Can pilot or drive most vehicles so long as the controls are in a language you know
+* Can always orient self North and/or upright.
+* Can pilot or drive most vehicles so long as the controls are in a language you know.
