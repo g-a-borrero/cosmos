@@ -13,5 +13,5 @@ A section of land floating in what some would consider the middle of nowhere, Is
 
 ## Traits
 
-* Ancestor Venerator
+* [Ancestor Venerator](/cosmos/Factors/Traits/AncestorVenerator)
 * Diplomacy + 1
