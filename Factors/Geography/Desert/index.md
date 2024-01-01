@@ -13,5 +13,5 @@ Much like a field, a desert is vast. They are marked typically by temperature ex
 
 ## Traits
 
-* Temperature Resistance
+* [Temperature Resistance](/cosmos/Factors/Traits/TemperatureResistance)
 * Survival: Natural + 1
