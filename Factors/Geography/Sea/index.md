@@ -13,5 +13,5 @@ A large vast expanse of liquid of some kind, brimming with all sorts of life. Se
 
 ## Traits
 
-* Master: Melee
+* [Master: Melee](/cosmos/Factors/Traits/Master)
 * Critter Control + 1
