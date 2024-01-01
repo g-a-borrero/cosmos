@@ -3,6 +3,7 @@ title: Tight-Knit
 parent: Community
 grand_parent: Factors
 has_children: false
+nav_order: 1
 ---
 
 # Tight-Knit
