@@ -13,5 +13,5 @@ The birthplace of stars and cosmic beings, a stellar nursery is the home to many
 
 ## Traits
 
-* still need a trait here
+* Resilient
 * Survival: Space + 1
