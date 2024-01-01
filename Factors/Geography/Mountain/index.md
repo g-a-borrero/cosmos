@@ -13,5 +13,5 @@ Reaching from beneath the earth up into areas that are difficult to breathe are 
 
 ## Traits
 
-* Climber
+* [Climber](/cosmos/Factors/Traits/Climber)
 * Survival: Natural + 1
