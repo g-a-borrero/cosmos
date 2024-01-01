@@ -12,5 +12,5 @@ Plunging deep into the ground, either in the air or beneath the waves, lies a va
 
 ## Traits
 
-* Dim Vision
+* [Dim Vision](/cosmos/Factors/Traits/DimVision)
 * Intuition: Visceral + 1
