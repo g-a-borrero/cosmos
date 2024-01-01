@@ -10,7 +10,7 @@ Interacting with animals and beasts of all kinds can be a daunting task. This ch
 
 ## Burden
 
-Interacting with beasts of burden (creatures that are used for carrying cargo of some kind.
+Interacting with beasts of burden (creatures that are used for carrying cargo of some kind).
 
 ## Domesticated
 
