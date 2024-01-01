@@ -2,7 +2,7 @@
 title: Community
 parent: Factors
 has_children: true
-nav_order: 5
+nav_order: 4
 ---
 
 # Community
