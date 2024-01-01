@@ -13,5 +13,5 @@ Floating precariously in space, yet somehow mostly anchored to one location, are
 
 ## Traits
 
-* Adaptable
+* [Adaptable](/cosmos/Factors/Traits/Adaptable)
 * Knowledge: Society + 1
