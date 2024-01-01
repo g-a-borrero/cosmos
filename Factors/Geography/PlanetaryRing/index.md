@@ -13,5 +13,5 @@ Surrounding some planets are debris and dust, gathered and pulled in by the grav
 
 ## Traits
 
-* Inquisitive
+* [Inquisitive](/cosmos/Factors/Traits/Inquisitive)
 * Survival: Space + 1
