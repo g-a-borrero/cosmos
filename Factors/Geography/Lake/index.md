@@ -13,5 +13,5 @@ A large body of liquid that is surrounded by land; something like a reverse-isla
 
 ## Traits
 
-* Artisan
+* [Artisan](/cosmos/Factors/Traits/Artisan)
 * Sneaking: Performance + 1
