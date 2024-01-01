@@ -13,5 +13,5 @@ A small, typically still, body of water that supports at most three small sapien
 
 ## Traits
 
-* Amphibious
+* [Amphibious](/cosmos/Factors/Traits/Amphibious)
 * Intuition: Visceral + 1
