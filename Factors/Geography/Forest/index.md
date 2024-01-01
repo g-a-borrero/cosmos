@@ -13,5 +13,5 @@ Plants whose growth nearly block out the light of daytime mark that which is a f
 
 ## Traits
 
-* Climber
+* [Climber](/cosmos/Factors/Traits/Climber)
 * Critter Control: Wild + 1
