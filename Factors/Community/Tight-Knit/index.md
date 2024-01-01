@@ -11,5 +11,5 @@ Your character is from a Tight-Knit community. They know everyone's name and und
 
 ## Traits
 
-* Bonds: Neighbors
+* [Bonds: Neighborhood](/cosmos/Factors/Traits/Bonds)
 * Knowledge: Society + 1
