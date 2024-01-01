@@ -13,5 +13,5 @@ Floating or flying along, drifting without a care in the world, the thought of y
 
 ## Traits
 
-* Navigator
+* [Navigator](/cosmos/Factors/Traits/Navigator)
 * Sneaking: Camouflage + 1
