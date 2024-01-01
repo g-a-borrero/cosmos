@@ -13,5 +13,5 @@ Surviving on the back of a massive flying creature such as a whale or a turtle i
 
 ## Traits
 
-* Placid
+* [Placid](/cosmos/Factors/Traits/Placid)
 * Critter Control: Wild + 1
