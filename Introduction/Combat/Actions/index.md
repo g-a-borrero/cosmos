@@ -44,6 +44,10 @@ You may choose to use an item on yourself or a fellow PC if they are within 5 ft
 
 Your character may move using Flying, Swimming, or Walking depending on their environment. Indicate which direction they are going and how far. The maximum movement you can make is based on your individual character and their current environment.
 
+### Reload
+
+Reloading a weapon takes one action unless otherwise noted by a Trait or the weapon itself.
+
 ### Skill Check
 
 You can choose to perform a Skill Check in the middle of combat.
