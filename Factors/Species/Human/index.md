@@ -19,4 +19,4 @@ Pick 3 (three) Physical Traits. Suggested:
 
 ## Traits
 
-In total, a character should have five traits from their Species. As a Human, your character has access to two additional traits of your choosing.
+In total, a character should have eight traits from their Species. As a Human, your character has access to five additional non-Physical traits of your choosing.
