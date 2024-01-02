@@ -27,6 +27,7 @@ Go through the following factors in order, assigning them to your character as y
 4. Community
 5. Family
 6. Species
+   * Traits
 
 ## Skills
 
