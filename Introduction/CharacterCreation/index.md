@@ -19,7 +19,7 @@ You have 15 points to allocate into Statistics as you see fit.
 
 ## Factors
 
-Go through the following factors in order, assigning them to your character as you go:
+Go through the following Factors in order, assigning them to your character as you go:
 
 1. Heavenly Bodies
 2. Atmosphere
