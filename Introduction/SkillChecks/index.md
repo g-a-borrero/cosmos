@@ -35,7 +35,7 @@ If two or more of your group would like to attempt a Skill Check, the mechanism 
 1. The group's average Skill Value for a given Skill is calculated.
 2. Add on everyone's bonuses (for example, [Stalwart](/cosmos/Factors/Traits/Stalwart)).
 3. That Skill Value, plus one, is the number of die you will be rolling - up to a maximum of 15.
-4. Roll the Action Die.
+4. Decide who is doing the rolling and roll the Action Die.
 5. Add on the relevant, agreed upon Statistic from the entire group. This is your Action Score.
 6. Roll the Challenge Die.
 7. Consider any Traits that might pertain to the Challenge Roll from the group (such as [Inquisitive](/cosmos/Factors/Traits/Inquisitive)) and calculate your two Challenge Scores.
