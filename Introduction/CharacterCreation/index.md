@@ -38,4 +38,4 @@ A Skill value of 4 gives you five (5) dice to roll for that Skill, which is esse
 
 ## Abilities
 
-There are three kinds of Abilities - Psi, Magic, and Theurgy. To gain these Abilities, you may take either Headstrong (Psi), Gifted (Magic), or Touched (Theurgy) once, or Improved (any) one or more times.
+There are three kinds of Abilities - Psi, Magic, and Theurgy. To gain these Abilities, you may take either Headstrong (Psi), Gifted (Magic), or Touched (Theurgy) once, or Improved (any) one or more times. Please note that these skills and Abilities may not be part of your setting, so it's best to talk to your GM first!
