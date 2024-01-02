@@ -14,3 +14,7 @@ Must be marked off per body part taken. May be taken once per pair of Arm, once 
 ## Effects
 
 * Allows an extra Attack action per location taken.
+* **NOTES**
+  * A Mouth can only handle one-handed Melee weapons.
+  * A Prehensile Tail can only handle one-handed weapons.
+  * A Prehensile Tail can reload a Ranged, Other weapon without taking an action.
