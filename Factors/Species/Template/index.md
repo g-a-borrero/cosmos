@@ -16,4 +16,4 @@ Give the number of Physical Traits a character of this species should have. Then
 
 ## Traits
 
-In total, a character should have eight (8) traits from their Species. Subtract the number of traits from Body to get the remaining number of traits your character can sample.
+In total, a character should have eight (8) traits from their Species. Subtract the number of traits from Body to get the remaining number of non-Physical traits your character can sample.
