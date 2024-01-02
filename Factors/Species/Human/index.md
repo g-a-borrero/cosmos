@@ -16,3 +16,7 @@ Pick 3 (three) Physical Traits. Suggested:
 1. Arm
 2. Arm
 3. Legs
+
+## Traits
+
+In total, a character should have five traits from their Species. As a Human, your character has access to two additional traits of your choosing.
