@@ -12,6 +12,7 @@ The steps you use to make a character are as follows:
 1. Statistics
 2. Factors
 3. Skills
+4. (Optional) Abilities
 
 ## Statistics
 
@@ -34,3 +35,7 @@ Go through the following Factors in order, assigning them to your character as y
 You have 50 points points to allocate into Skills as you see fit. One Skill point may be split into two Sub-Skill points.
 
 A Skill value of 4 gives you five (5) dice to roll for that Skill, which is essentially a coinflip.
+
+## Abilities
+
+There are three kinds of Abilities - Psi, Magic, and Theurgy. To gain these Abilities, you may take either Headstrong (Psi), Gifted (Magic), or Touched (Theurgy) once, or Improved (any) one or more times.
