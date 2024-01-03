@@ -3,6 +3,7 @@ title: Amphibious
 parent: Traits
 grand_parent: Factors
 has_children: false
+tags: trait_physical
 ---
 
 # Amphibious
