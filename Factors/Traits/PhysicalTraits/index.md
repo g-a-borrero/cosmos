@@ -8,6 +8,4 @@ has_children: false
 
 # Physical Traits
 
-{% for post in site.tags.trait_physical %}
-{{post.title}}
-{% endfor %}
+{{ site.tags["trait_physical"]. }}
