@@ -1,4 +1,6 @@
 ---
+parent: Traits
+grand_parent: Factors
 has_children: false
 ---
 
