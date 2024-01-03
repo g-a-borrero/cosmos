@@ -2,7 +2,7 @@
 title: Physical Traits
 parent: Traits
 grand_parent: Factors
-hidden: true
+sitemap: false
 has_children: false
 ---
 
