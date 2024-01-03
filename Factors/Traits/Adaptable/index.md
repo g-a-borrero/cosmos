@@ -1,5 +1,6 @@
 ---
 title: Adaptable
+layout: post
 parent: Traits
 grand_parent: Factors
 has_children: false
