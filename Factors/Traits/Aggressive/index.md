@@ -3,6 +3,7 @@ title: Aggressive
 parent: Traits
 grand_parent: Factors
 has_children: false
+tags: trait_combat trait_social
 ---
 
 # Aggressive
