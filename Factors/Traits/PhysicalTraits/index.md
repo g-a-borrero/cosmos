@@ -6,4 +6,4 @@ has_children: false
 
 # Physical Traits
 
-{{ site.tags.list }}
+{{ site.tags["trait_physical"] }}
