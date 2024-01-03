@@ -32,7 +32,7 @@ Go through the following Factors in order, assigning them to your character as y
 
 ## Skills
 
-You have 50 points points to allocate into Skills as you see fit. One Skill point may be split into two Sub-Skill points.
+You have 50 points points to allocate into Skills as you see fit. One Skill point may be split into two Sub-Skill points. You can have no more than a value of 7 in an individual Skill or Sub-Skill. (7 Diplomacy, 7 Diplomacy: Charity.)
 
 A Skill value of 4 gives you five (5) dice to roll for that Skill, which is essentially a coinflip.
 
