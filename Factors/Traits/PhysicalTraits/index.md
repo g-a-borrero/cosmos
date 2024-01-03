@@ -1,5 +1,4 @@
 ---
-title: Physical Traits
 parent: Traits
 grand_parent: Factors
 menu: false
