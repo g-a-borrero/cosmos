@@ -1,7 +1,4 @@
 ---
-parent: Traits
-grand_parent: Factors
-menu: false
 has_children: false
 ---
 
