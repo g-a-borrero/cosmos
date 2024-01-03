@@ -8,6 +8,6 @@ has_children: false
 
 # Physical Traits
 
-{% for post in site.tags.traits_physical %}
+{% for post in site.tags.trait_physical %}
 [{{post.title}}](/cosmos/Factors/Traits/{{post.url}})
 {% endfor %}
