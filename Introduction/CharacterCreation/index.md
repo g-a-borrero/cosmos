@@ -29,6 +29,7 @@ Go through the following Factors in order, assigning them to your character as y
 5. Family
 6. Species
    * Traits
+       * In total, a character should have eight (8) traits from their Species. Subtract the number of traits from Body to get the remaining number of non-Physical traits your character can sample. Traits from previous factors do not count against this total.
 
 ## Skills
 
