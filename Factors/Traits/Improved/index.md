@@ -13,10 +13,10 @@ Can take more than once. One way or another, whether through time passing, activ
 
 ## Effects
 
-* Pick one of the following types of Abilities, gain + 3
+* Pick one of the following types of Abilities, gain + 3:
   * Magic
   * Psi
   * Theurgy
-* Pick one, gain + 5
+* Pick one Statistic, gain + 5:
   * Energy
   * Theurgy
