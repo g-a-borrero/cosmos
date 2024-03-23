@@ -13,4 +13,4 @@ Your character rolls with the punches. Nothing seems to really excite, startle, 
 
 ## Effects
 
-* Additional Challenge Scores provided by the GM for Survival or Diplomacy are ignored.
+* Additional Challenge Scores provided by the GM for Diplomacy or Medical are ignored.
