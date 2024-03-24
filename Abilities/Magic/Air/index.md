@@ -19,28 +19,28 @@ In order to gain access to any of the Air Abilities and their derivatives, you m
 
 ## Elemental Affinities
 
-### **Air Affinity: Basic**
+#### **Air Affinity: Basic**
 > **Requirements:** None.
 > 
 > *Passive*.
 >
 > This shows a basic understanding of the element of Air.
 
-### **Air Affinity: Intermediate**
+#### **Air Affinity: Intermediate**
 > **Requirements:** Air Affinity: Basic.
 >
 > *Passive.*
 >
 > This shows an intermediate understanding of the element of Air.
 
-### **Air Affinity: Master**
+#### **Air Affinity: Master**
 > **Requirements:** Air Affinity: Intermediate.
 >
 > *Passive.*
 >
 > This shows a mastery of the element of Air.
 
-### **Cloud Affinity**
+#### **Cloud Affinity**
 > **Requiremenets:** Air Affinity: Intermediate.
 >
 > *Passive.*
@@ -54,11 +54,32 @@ In order to gain access to any of the Air Abilities and their derivatives, you m
 #### Glide
 > **Requirements:** Air Affinity: Basic.
 >
-> *Active. One entity. 5 minutes.*
+> *Active. One entity in sight. 5 minutes.*
 >
-> Create a gust of wind that allows a character or object to glide safely for up to five minutes.
+> Create a pleasant breeze that allows a character or object to glide safely for up to five minutes.
+
+#### Gust
+> **Requirements:** Air Affinity: Basic.
+>
+> *Active. Up to Movement Speed in range.*
+>
+> ***2d6 damage***. Create a gust of wind that slams into a given target.
 
 ### Intermediate
+
+#### Bubble
+> **Requirements:** Air Affinity: Intermediate.
+>
+> *Active. Sphere centered around self of up to diameter Movement Speed. 5 minutes.*
+>
+> Gathering breathable gasses together, make a sphere of breathable air centered around the self.
+
+#### Barrier
+> **Requirements:** Air Affinity: Intermediate.
+>
+> *Active. Sphere centered around self of up to diameter Movement Speed. 2 minutes.*
+>
+> Make a ball of thick wind centered around the self. Increases Dodge against non-Melee attacks by 15 for the duration.
 
 ### Master
 
@@ -75,6 +96,13 @@ In order to gain access to any of the Air Abilities and their derivatives, you m
 > *Active. Self. 5 minutes.*
 >
 > Ascend into the air and manuever at a maximum speed and maximum height equal to the character's fastest movement speed for the given type of Heavenly Body they are on.
+
+#### Scooter
+> **Requirements:** Air Affinity: Master.
+>
+> *Active. Self. 1 minute.*
+>
+> Speed along on a swirling ball of air. For one minute, travel at 150% Movement Speed; each consecutive minute this skill is used increases Movement Speed by another 50%.
 
 ## Cloud
 
