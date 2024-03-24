@@ -9,6 +9,9 @@ has_children: false
 
 In order to gain access to any of the Air Abilities and their derivatives, you must take on Elemental Affinities first.
 
+## Table of Contents
+1. [Elemental Affinities](#Elemental-Affinities)
+
 ## Elemental Affinities
 
 > **Air Affinity: Basic**
@@ -41,16 +44,16 @@ In order to gain access to any of the Air Abilities and their derivatives, you m
 
 ## Air
 
-### Flight
-> **Requirements:** Air Affinity: Master.
->
-> *Active. Self. 5 minutes.*
->
-> Ascend into the air and manuever at a maximum speed and maximum height equal to the character's fastest movement speed for the given type of Heavenly Body they are on.
-
 ### Glide
 > **Requirements:** Air Affinity: Basic.
 >
 > *Active. One entity. 5 minutes.*
 >
 > Create a gust of wind that allows a character or object to glide safely for up to five minutes.
+
+### Flight
+> **Requirements:** Air Affinity: Master.
+>
+> *Active. Self. 5 minutes.*
+>
+> Ascend into the air and manuever at a maximum speed and maximum height equal to the character's fastest movement speed for the given type of Heavenly Body they are on.
