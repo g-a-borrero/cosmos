@@ -41,7 +41,7 @@ In order to gain access to any of the Air Abilities and their derivatives, you m
 > This shows a mastery of the element of Air.
 
 #### **Cloud Affinity**
-> **Requiremenets:** Air Affinity: Intermediate.
+> **Requirements:** Air Affinity: Intermediate.
 >
 > *Passive.*
 >
