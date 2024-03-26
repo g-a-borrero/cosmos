@@ -3,6 +3,7 @@ title: Enhancement
 parent: Psi
 grand_parent: Abilities
 has_children: false
+nav_order: 3
 ---
 
 # Enhancement
