@@ -110,7 +110,7 @@ In order to gain access to any of the Fire Abilities and their derivatives, you 
 >
 > *Active. Self. 2 minutes.*
 >
-> Turns flame white. Doubles the dice pool for damage for the duration.
+> Turns flame white. Doubles the dice pool for Fire damage for the duration.
 
 ## Combustion
 
