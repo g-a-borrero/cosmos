@@ -54,4 +54,8 @@ You can choose to perform a Skill Check in the middle of combat.
 
 ### Utility
 
-This is when your character does something to support themselves or another character, whether it be blocking another character with a shield or casting a healing spell.
+This is when your character does something to support themselves or another character, whether it be shielding another character with an item or casting a healing ability.
+
+### Writhe
+
+If stuck in a binding of some kind, whether it be a grapple or vines or a whirlpool, you can attempt to escape by writhing. Writhing is a unique Skill Check that uses Sneaking + Survival.
