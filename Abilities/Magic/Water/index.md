@@ -7,7 +7,7 @@ has_children: false
 
 # Water
 
-In order to gain access to any of the Water Abilities and their derivatives, you must take on Elemental Affinities first.
+In order to gain access to any of the Water Abilities and their derivatives, you must take on Elemental Affinities first. Water Abilities require Water nearby.
 
 #### Table of Contents
 1. [Elemental Affinities](#elemental-affinities)
@@ -82,19 +82,19 @@ In order to gain access to any of the Water Abilities and their derivatives, you
 
 ### Intermediate
 
-#### Blue Flame
+#### Aqua Ring
 > **Requirements:** Water Affinity: Intermediate.
 >
-> *Passive.*
+> *Active. Torus centered around self, 1 ft. thick, 5 ft. radius. 1 minute.*
 >
-> Turns flame blue. +1d per Magic: Water ability.
+> Make a ring of water around the user. The water increases the Challenge Score for hitting the user with projectiles and Magic by 10.
 
-#### Flare
+#### Freeze
 > **Requirements:** Water Affinity: Intermediate.
 >
-> *Active. Sphere centered around self of up to diameter Movement Speed. 2 minutes.*
+> *Active. Up to twice movement speed in range, 5 ft. radius circle.*
 >
-> Make a ball of thick wind centered around the self. Increases Dodge against non-Melee attacks by 15 for the duration.
+> Freeze a body of water up to 5 ft. deep. Can be used with other Water Abilities to turn them to ice.
 
 ### Master
 
@@ -117,57 +117,55 @@ In order to gain access to any of the Water Abilities and their derivatives, you
 | Damp | Temperate | 10 fl oz (296 ml) |
 | Damp | Hot | 20 fl oz (592 ml) |
 
-#### Water Step
+#### Healing
 > **Requirements:** Water Affinity: Master.
 >
-> *Active. Half Movement Speed line.*
+> *Active. 5 ft melee range.*
 >
-> Move at half Movement Speed diagonally into the air in a given direction at a 45-degree angle, immediately falling and land. Regular falling rules apply.
+> ***-1d6 damage.*** Heal a target of the user's choosing - this includes the user as a potential target.
 
-#### White Flame
+#### Whirlpool
 > **Requirements:** Water Affinity: Master.
 >
-> *Active. Self. 2 minutes.*
+> *Active. Twice Movement Speed in Range, in sight. 10 ft. radius. 2 minutes.*
 >
-> Turns flame white. Doubles the dice pool for damage for the duration.
+> Creates a whirlpool that traps all sucked in. To escape, a successful Sneaking + Survival Skill Check is required (takes an action) or waiting for the whirlpool to end. Every turn stuck in the whirlpool moves the entity around the perimeter and (up, if on land; down, if in water) 5 ft., no more than 15 ft in any direction. All those attempting to do actions in the whirlpool take another 10 Challenge Score. If frozen, deals ***1d10 damage*** per turn.
 
 ## Blood
 
-#### Implosion
-
+#### Drain
 > **Requirements:** Blood Affinity.
 >
-> *Active. One target in Movement Speed range. Uses 5 Energy per attempt.*
+> *Active. One target in sight in Movement Speed range.*
 >
-> Causes a target to implode into a whole bunch of pieces. If living, kills them. If hard material, sends shrapnel flying in a sphere of 30 ft. diameter.
+> Cause life-giving water to exit your target. The amount that exits is 0.33 gallons (1.25 L). This amount doubles if you have Water Affinity: Master.
 
-#### Explosion
-
+#### Puppet
 > **Requirements:** Blood Affinity.
 >
-> *Active. Twice Movement Speed range, target in sight. Uses 2 Energy per attempt.*
+> *Active. Movement Speed range. Uses up to 3 Energy per attempt.*
 >
-> ***3d12 damage on target, half damage on those in 5 ft. of target.*** Waters a beam of energy that explodes on meeting a target. If the target is metal, the beam redirects back at the user.
+> Make up to 3 targets take one action. Uses one (1) Energy per target. Must be aware of the target's location in space.
 
 ## Plant
 
-#### Ball Plant
+#### Blossom
 > **Requirements:** Plant Affinity.
 >
 > *Active. One target in sight.*
 >
-> ***3d12 damage.*** Throw a ball of charged electricity at a given target.
+> Cause a plant to rapidly grow. If it is a fruit bearing plant, it will bear 1d10 fruit.
 
-#### Chain Plant
-> **Requirements:** Plant Affinity.
->
-> *Active. One target in twice Movement Speed range, and then targets in 10 ft. of range of the original target.*
->
-> ***5d8 damage.*** Direct Plant at a target that spreads to other targets. If the first target is hit, roll for damage. If the first target dies, the plant spreads to the next target. If there are no targets left and still damage left to be dealt, it will ricochet back to the character who used this ability. Works with Redirect.
-
-#### Redirect
+#### Root Network
 > **Requirements:** Plant Affinity.
 >
 > *Passive.*
 >
-> Automatically redirect Plant directed at the character towards a target in sight other than the attacker at the intensity it was received.
+> So long as you are touching a plant, you can understand it, and it can understand your thoughts.
+
+#### Ivy Whip
+> **Requirements:** Plant Affinity.
+>
+> *Active. Up to twice Movement Speed in range and length spreading from a plant, either a swooping curve or a straight line*
+>
+> ***2d10 damage to first target, decreasing by 1 point of damage for each subsequent target.*** Grow and direct a vine to slam into one or more targets in range in a line or curve.
