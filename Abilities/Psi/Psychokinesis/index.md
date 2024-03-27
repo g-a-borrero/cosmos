@@ -27,14 +27,14 @@ Move matter with your mind and more!
 > A basic understanding of energetic phenomena.
 
 #### Psychokinesis Proclivity: Intermediate
-> **Requirements:** Basic.
+> **Requirements:** Psychokinesis Proclivity: Basic.
 > 
 > *Passive.*
 > 
 > A more advanced understanding of energetic phenomena allows the user to manipulate their environment.
 
 #### Psychokinesis Proclivity: Master
-> **Requirements:** None.
+> **Requirements:** Psychokinesis Proclivity: Master.
 > 
 > *Passive.*
 > 
