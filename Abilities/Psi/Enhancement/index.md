@@ -27,14 +27,14 @@ Make your individual Psi abilities better. All Psi Enhancements stack.
 > A basic understanding of Psi allows for enhancing Abilities.
 
 #### Enhancement Proclivity: Intermediate
-> **Requirements:** Basic.
+> **Requirements:** Enhancement Proclivity: Basic.
 > 
 > *Passive.*
 > 
 > A middling understanding of Psi allows for enhancing Abilities.
 
 #### Enhancement Proclivity: Master
-> **Requirements:** None.
+> **Requirements:** Enhancement Proclivity: Intermediate.
 > 
 > *Passive.*
 > 
