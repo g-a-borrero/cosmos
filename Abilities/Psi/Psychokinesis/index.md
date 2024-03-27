@@ -44,69 +44,62 @@ Move matter with your mind and more!
 
 ### Basic
 
-#### Edit Me
+#### Telekinesis
 > **Requirements:** Psychokinesis Proclivity: Basic.
 > 
-> *Passive.*
+> *Active. One target in 10 ft. range in sight.*
 > 
-> Edit me.
+> Move one entity 10 ft in any direction. If the user loses sight of the target and does not have Enhancement: Master: Range, they do not complete the movement.
 
-#### Edit Me
+#### TK Slam
 > **Requirements:** Psychokinesis Proclivity: Basic.
 > 
-> *Passive.*
+> *Active. One target in 10 ft. range in sight.*
 > 
-> Edit me.
-
-#### Edit Me
-> **Requirements:** Psychokinesis Proclivity: Basic.
-> 
-> *Passive.*
-> 
-> Edit me.
+> **1d10 damage.** Slam a psychic wall into a target, pushing them away from you 5 ft. If the Aim roll fails, half of the rolled damage is done to the user instead.
 
 ### Intermediate
 
-#### Edit Me
+#### Aerokinesis
 > **Requirements:** Psychokinesis Proclivity: Intermediate.
 > 
-> *Passive.*
+> *Active. Movement Speed range in sight.*
 > 
-> Edit me.
+> Move 1 cubic foot of gas. Increasing Enhancement: Targets increases this quantity.
 
-#### Edit Me
+#### Hydrokinesis
 > **Requirements:** Psychokinesis Proclivity: Intermediate.
 > 
-> *Passive.*
+> *Active. Movement Speed range in sight.*
 > 
-> Edit me.
+> Move 1 cubic foot of water. Increasing Enhancement: Targets increases this quantity.
 
-#### Edit Me
+#### Pyrokinesis
 > **Requirements:** Psychokinesis Proclivity: Intermediate.
 > 
-> *Passive.*
+> *Active. Movement Speed range in sight.*
 > 
-> Edit me.
+> Move 1 cubic foot of fire. Increasing Enhancement: Targets increases this quantity.
+
+#### Terrakinesis
+> **Requirements:** Psychokinesis Proclivity: Intermediate.
+> 
+> *Active. Movement Speed range in sight.*
+> 
+> Move 1 cubic foot of earth. Increasing Enhancement: Targets increases this quantity.
 
 ### Master
 
-#### Edit Me
+#### Materialization
 > **Requirements:** Psychokinesis Proclivity: Master.
 > 
-> *Passive.*
+> *Active. 5 ft. range in sight.*
 > 
-> Edit me.
+> Create 1 cubic foot of gas, earth, fire, or water. Increasing Enhancement: Targets increases this quantity.
 
-#### Edit Me
+#### Apport
 > **Requirements:** Psychokinesis Proclivity: Master.
 > 
-> *Passive.*
+> *Active. One target in Movement Speed range in sight.*
 > 
-> Edit me.
-
-#### Edit Me
-> **Requirements:** Psychokinesis Proclivity: Master.
-> 
-> *Passive.*
-> 
-> Edit me.
+> Make an item either the user knows another has on their person or they know the location of nearby appear in the user's hands. If lacking Enhancement: Master: Range, the user must be able to see the object in question.
