@@ -27,14 +27,14 @@ Use your Psi Abilities to gather and spread information - or misinformation.
 > Study of energy has led to the ability to talk psychically.
 
 #### Cognition Proclivity: Intermediate
-> **Requirements:** Basic.
+> **Requirements:** Cognition Proclivity: Basic.
 > 
 > *Passive.*
 > 
 > Energetic studies have led to a mind ready to listen psychically.
 
 #### Cognition Proclivity: Master
-> **Requirements:** None.
+> **Requirements:** Cognition Proclivity: Intermediate.
 > 
 > *Passive.*
 > 
