@@ -28,7 +28,7 @@ The supernatural being you follow has an enigmatic, radiant personality. All Hol
 >
 > *Active. Self. 5 minutes.*
 >
-> ***+3d4 damage.*** Brings the essence of the supernatural being into a Melee weapon (including fists).
+> ***Additional +3d4 Holy damage.*** Brings the essence of the supernatural being into a Melee weapon (including fists).
 
 ## Reverence
 
@@ -51,7 +51,7 @@ The supernatural being you follow has an enigmatic, radiant personality. All Hol
 >
 > *Active. One target in Movement Speed range.*
 >
-> ***+1d8 damage.*** Brings the essence of the supernatural being to an ally, making their Energetic or bodily attacks more effective.
+> ***Additional +1d8 damage.*** Brings the essence of the supernatural being to an ally, making their Energetic or bodily attacks more effective.
 
 ## Piety
 
