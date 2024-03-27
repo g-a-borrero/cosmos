@@ -34,7 +34,7 @@ Move matter with your mind and more!
 > A more advanced understanding of energetic phenomena allows the user to manipulate their environment.
 
 #### Psychokinesis Proclivity: Master
-> **Requirements:** Psychokinesis Proclivity: Master.
+> **Requirements:** Psychokinesis Proclivity: Intermediate.
 > 
 > *Passive.*
 > 
