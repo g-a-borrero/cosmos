@@ -7,6 +7,8 @@ nav_order: 5
 
 # Character Creation
 
+[This Character Sheet](https://docs.google.com/spreadsheets/d/1Olt3hcuoJQkOyyBNUh02fUZrBF__KgPm9EAcEBnHEwE/edit?usp=sharing) can help you create a character from scratch. You will need to make a copy of the document to your Google Drive. Please keep in mind this only handles mechanics - your backstory and relationships should be handled in a separate document.
+
 The steps you use to make a character are as follows:
 
 1. Statistics
