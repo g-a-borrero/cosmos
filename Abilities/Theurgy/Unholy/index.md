@@ -21,7 +21,7 @@ The supernatural being you follow has a familiar, too-knowable personality. Cele
 > 
 > *Active. Self.*
 >
-> Through Unholy influence, receive luxurious garbs of your choosing from the aether. Vanish on removal.
+> Through Unholy influence, receive luxurious garbs of the user's choosing from the aether. Vanish on removal.
 
 #### Desire
 > **Requirements:** Belief.
