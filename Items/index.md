@@ -23,7 +23,7 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 
 | Item | Unit | Cost |
 |:----:|:----:|:----:|
-| Food Staple, Raw | 1 cup | 1 |$0.25
+| Food Staple, Raw | 1 cup | 1 |
 | Food Staple, Cooked | 1 cup | 3 |
 | Fruit, Common | 1 serving | 12 |
 | Fruit, Rare | 1 serving | 20 |
