@@ -61,3 +61,21 @@ The supernatural being you follow has a playful, lighthearted behavior that some
 > *Active. 1 Theurgy per target within 5 ft. Lasts 1 minute, increasing by 1 Theurgy per extra minute up to 10 for "permanently."*
 > 
 > The user blocks their target(s) from using Abilities for a given amount of time - nothing is truly permanent, as it can be undone.
+
+#### Domain
+> **Requirements:** Piety.
+>
+> *Passive.*
+>
+> The supernatural being the user has aligned themselves with has one or two domain(s) they align themselves with that allows the user to pick two master-equivalent Magic abilities to add to their spell list (counting as one Ability, Domain, for the purposes of how many Theurgical Abilities the user can have). These are:
+>
+> * Air: Master
+> * Earth: Master
+> * Fire: Master
+> * Water: Master
+> * Blood
+> * Cloud
+> * Combustion
+> * Lightning
+> * Metal
+> * Plant
