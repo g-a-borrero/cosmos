@@ -30,6 +30,13 @@ The supernatural being you follow has an enigmatic, radiant personality. All Hol
 >
 > ***Additional +3d4 Holy damage.*** Brings the essence of the supernatural being into a Melee weapon (including fists).
 
+#### Shield
+> **Requirements:** Belief.
+>
+> *Active. Self. 30 seconds.*
+>
+> An incorporeal shield appears before the user, which they can use to defend themselves or another. Increases Challenge Score to hit by 15.
+
 ## Reverence
 
 #### Blessing
@@ -51,7 +58,7 @@ The supernatural being you follow has an enigmatic, radiant personality. All Hol
 >
 > *Active. One target in Movement Speed range.*
 >
-> ***Additional +1d8 damage.*** Brings the essence of the supernatural being to an ally, making their Energetic or bodily attacks more effective.
+> ***Additional +1d8 Holy damage.*** Brings the essence of the supernatural being to an ally, making their Energetic or bodily attacks more effective.
 
 ## Piety
 
