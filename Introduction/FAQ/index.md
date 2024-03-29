@@ -23,4 +23,16 @@ Movement Speed determines your Flying, Swimming, and Walking Speeds. Movement Sp
 
 ## Where is Perception?
 
-Not needed. Insight: Visceral will help you notice if somebody hiding nearby by alerting you there is good cause for alarm... assuming you roll well.
+Not needed. Insight: Visceral will help you notice if somebody is hiding nearby by alerting you there is good cause for alarm... assuming you roll well.
+
+## I want to play in person. What dice do I need?
+
+What you need to do first is reconsider. If you're really determined, though...
+
+* 1d4
+* 1d6
+* 1d8
+* 1d10
+* 1d12
+* 15d20 (or 1d20 and something to record your rolls on to add them)
+* 2d100 (or 1d100 and something to record your two rolls on)
