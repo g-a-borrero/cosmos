@@ -18,6 +18,7 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 1. [Food](#food)
 2. [Materials](#materials)
 3. [Clothing](#clothing)
+4. [Armor](#armor)
 
 ## Food
 
@@ -27,12 +28,12 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 | Food Staple, Cooked | 1 cup | 3 |
 | Fruit, Common | 1 serving | 12 |
 | Fruit, Rare | 1 serving | 20 |
-| Meat, Domestic, Common, Raw | 1 lb | 20 |
-| Meat, Domestic, Uncommon, Raw | 1 lb | 25 |
-| Meat, Domestic, Rare, Raw | 1 lb | 60 |
 | Meal, Simple | 1 serving | 30 |
 | Meal, Modest | 1 serving | 40 |
 | Meal, Expensive | 1 serving | 220 |
+| Meat, Domestic, Common, Raw | 1 lb | 20 |
+| Meat, Domestic, Uncommon, Raw | 1 lb | 25 |
+| Meat, Domestic, Rare, Raw | 1 lb | 60 |
 | Vegetable, Common | 1 serving | 8 |
 | Vegetable, Rare | 1 serving | 16 |
 
@@ -100,3 +101,29 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 | Slacks, Fancy | 1,580 |
 | Underwear, Common | 100 |
 | Underwear, Fancy | 2,000 |
+
+## Armor
+
+Each piece of armor can be purchased for the following slots:
+
+* Head
+* Chest
+* Arms
+* Hands
+* Legs
+* Boots
+
+Please keep in mind that synthetic armor may not be available in all settings. As always, talk to your GM.
+
+| Item | Cost Per Piece | Challenge Score Increase to Hit |
+|:----:|:----:|:-------------------------------:|
+| Hide | 800 | 1 |
+| Leather | 1600 | 2 |
+| Leather, Studded | 3000 | 3 |
+| Mail, Chain | 3250 | 4 |
+| Mail, Ring | 3500 | 5 |
+| Splint | 13,250 | 6 |
+| Plate | 1,000,000 | 7 |
+| Synthetic, Soft | 1,100 | 8 |
+| Synthetic, Hard | 1,800 | 9 |
+| Synthetic, Trauma | 2,500 | 10 |
