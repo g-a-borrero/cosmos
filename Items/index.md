@@ -8,11 +8,11 @@ nav_order: 6
 
 There are a variety of items that you can use in the game. The amount of starting currency you have will be determined by your GM, if any. Your GM may decide to instead start you with a set of equipment. Alternatively... your GM may start you with absolutely nothing, in which case, reading this page is masochism on the player's part.
 
-Each item's value is determined based off of a food staple, such as rice, wheat, so on and so forth. The number you will see is not the price in a given currency, but how much it should cost compared to a food staple in a society like our own.
+Each item's value is determined based off of a food staple, such as rice, wheat, so on and so forth. The number you will see is not the price in a given currency, but how much it should cost compared to a food staple in a society like our own. <sub><sup>**Creator's Confession:** To get these costs, I looked them up, then divided the price found by the price for a cup of uncooked rice.</sup></sub>
+
+Each item takes up 1 Inventory Space, whether it is worn or not.
 
 Lastly, just because the item is listed here does not mean your GM has to use it in their game. A GM can say "my game does not have guns" and that's the end of it. If they want to, they can say "my game doesn't have metal" and that's the end of that, too. Pay attention to your GM's rules.
-
-<sub><sup>**Creator's Confession:** To get these costs, I looked them up, then divided the price found by the price for a cup of uncooked rice.</sup></sub>
 
 #### Table of Contents
 1. [Food](#food)
@@ -119,6 +119,18 @@ By default, if a character ***requires*** an accessibility aid at the start of t
 | Wheelchair, Metal | 600 | Allows for Walking Speed as if having the Legs trait while the item is in use. |
 | Wheelchair, Wooden | 7,000 | Allows for Walking Speed as if having the Legs trait while the item is in use. |
 
+## Accessories
+
+As previously stated, each of the following takes up 1 Inventory Space... but wearing them and storing items in them can allow you to go over your Inventory Space cap. For example, if you have a 10 Inventory Space maximum, are using 9 Inventory slots, and put on a hiking backpack... you have used all 10 Inventory Space slots, but you have 7 more slots inside your hiking backpack!
+
+| Item | Cost | Additional Inventory Space |
+|:----:|:----:|:--------------------------:|
+| Pouch | 24 | 3 |
+| Purse | 132 | 4 |
+| Carrier Bag | 192 | 5 |
+| Backpack, Casual | 200 | 6 |
+| Backpack, Hiking | 300 | 7 |
+
 ## Armor
 
 Each piece of armor can be purchased for the following slots:
@@ -144,3 +156,11 @@ Please keep in mind that synthetic armor may not be available in all settings. A
 | Synthetic, Soft | 1,100 | 8 |
 | Synthetic, Hard | 1,800 | 9 |
 | Synthetic, Trauma | 2,500 | 10 |
+
+## Weapons
+
+Assuming you don't want to rely on your fists or incorporeal means for fighting, there are weapons.
+
+### Melee
+
+Melee weapons do a variable amount of damage depending on their composition.
