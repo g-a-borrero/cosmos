@@ -23,7 +23,7 @@ Characters who have the Field Factor gain an additional 5 ft. of Movement Speed.
 
 Also referred to as **Flying Speed**. This is how far your character can fly in a turn. Characters whose origins are primarily in or on liquids (water, for example) or solids (land, for example) have no Flying Speed. Characters who primarily live in the Void (space, for example) have a Flying Speed equal to half their Base Movement Speed. Characters who primarily live in gasses (air, for example) have a Flying Speed equal to their Movement Speed.
 
-Characters with the Wings Train gain additional Flying Speed equal to half their Movement Speed.
+Characters with the Wings Trait gain additional Flying Speed equal to half their Movement Speed.
 
 ### Swimming
 
