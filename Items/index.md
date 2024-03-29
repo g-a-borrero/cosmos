@@ -18,7 +18,8 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 1. [Food](#food)
 2. [Materials](#materials)
 3. [Clothing](#clothing)
-4. [Armor](#armor)
+4. [Accessibility Aids](#accessibility-aids)
+5. [Armor](#armor)
 
 ## Food
 
@@ -101,6 +102,22 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 | Slacks, Fancy | 1,580 |
 | Underwear, Common | 100 |
 | Underwear, Fancy | 2,000 |
+
+## Accessibility Aids
+
+By default, if a character ***requires*** an accessibility aid at the start of the game, it should be available to them for free and not count against their starting money.
+
+| Item | Cost | Effect |
+|:----:|:----:|:------:|
+| Cane, Metal | 80 | Allows for Walking Speed as if having the Legs trait while the item is in use. |
+| Cane, Wooden | 140 | Allows for Walking Speed as if having the Legs trait while the item is in use. | 
+| Crutches | 140 | Allows for Walking Speed as if having the Legs trait while the item is in use. |
+| Hearing Aid | 10,000 | Allows for hearing better in noisy and quiet situations. |
+| Prosthetic, Arm | 40,000 | Allows for arm use as if having the Arm trait while the item is in use. |
+| Prosthetic, Leg | 40,000 | Allows for Walking Speed as if having the Legs trait while the item is in use. |
+| Walker | 160 | Allows for Walking Speed as if having the Legs trait while the item is in use. |
+| Wheelchair, Metal | 600 | Allows for Walking Speed as if having the Legs trait while the item is in use. |
+| Wheelchair, Wooden | 7,000 | Allows for Walking Speed as if having the Legs trait while the item is in use. |
 
 ## Armor
 
