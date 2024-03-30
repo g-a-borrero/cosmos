@@ -8,7 +8,9 @@ nav_order: 2
 
 # Actions
 
-In combat, you must do two posts and an optional roll. Post, roll?, post. The first post is to declare your intent, the roll is to determine the success of that intent if it's required, and then the second post is to express the success or failure of that roll or intent. Combat is one of the few times a GM just patiently waits for their turn to control NPCs.
+In combat, you must do two posts and an optional roll. Post, roll?, post. The first post is to declare your intent, the roll is to determine the success of that intent if it's required, and then the second post is to express the success or failure of that roll or intent. Combat is one of the few times a GM just patiently waits for their turn to control NPCs. 
+
+A turn is 12 seconds, and one minute is 5 turns.
 
 ## Types of Actions
 
