@@ -158,6 +158,22 @@ Please keep in mind that synthetic armor may not be available in all settings. A
 | Synthetic, Hard | 1,800 | 9 |
 | Synthetic, Trauma | 2,500 | 10 |
 
+### Shields
+
+Increases the Challenge Score to hit the user when they take the Defend action.
+
+| Shield | Cost | Challenge Score Increase |
+|:------:|:----:|:------------------------:|
+| Round, Iron or Steel | 800 | 10 |
+| Round, Leather | 600 | 7 |
+| Round, Leather, Studded | 700 | 8 |
+| Round, Wooden | 400 | 6 |
+| Tower, Iron or Steel | 2,000 | 20 |
+| Tower, Leather | 1,500 | 12 |
+| Tower, Leather, Studded | 1,750 | 13 |
+| Tower, Wooden | 1,000 | 11 |
+
+
 ## Weapons
 
 Assuming you don't want to rely on your fists or incorporeal means for fighting, there are weapons. Your GM may deem any of these weapons as not part of their game... and you should respect that.
@@ -186,14 +202,21 @@ Melee weapons do a variable amount of damage depending on their composition. As 
 | Item | Cost | Damage | Two-Handed Effects |
 |:----:|:----:|:------:|:------------------:|
 | Axe | 160 | 2d8 | 1.5x damage |
+| Morning Star | 880 | 3d8 | Aiming Action Score +5 |
 | Scythe | 500 | 3d6 | 5x damage |
 | Sickle | 60 | 2d6 | Aiming Action Score +5 and 1.5x damage |
-| Sword, Broad | 1,640 | 1d20-5 | Aiming Action Score +5, +5 damage, x5 damage |
+| Sword, Broad | 1,640 | 6d4-5 | Aiming Action Score +5, +5 damage, x5 damage |
 | Sword, Thin (e.g., Rapier) | 800 | 3d4 | Aiming Action Score -5 and 1.5x damage |
 
-#### Extended
+#### Polearms
 
 These melee weapons have a range of 10 ft. and can hit up to two targets in a line from the combatant.
+
+| Item | Cost | Damage |
+|:----:|:----:|:------:|
+| Glaive | 840 | 4d6 |
+| Halberd | 412 | 2d8 |
+| Trident | 800 | 3d8 |
 
 ### Ranged, Gun
 
@@ -211,6 +234,7 @@ Range is Movement Speed + (Dexterity or Strength x 5) of the thrower.
 | Chakram | 287 | 3d4 | 1d12 | Aiming Action Score -10 |
 | Dagger | 240 | 2d2 | 2d2-1 | Aiming Action Score +5 and 2x damage |
 | Knife, Paring | 360 | 3d2 | 1d6-1 | Aiming Action Score +5 and 1.5x damage |
+| Spear | 500 | 2d8 | 2d8 | 1.5x damage |
 | Throwing Star, Small | 20 | 1d8 | 1d4-2 | Aiming Action Score -10 |
 | Throwing Star, Medium | 40 | 2d4 | 1d4-1 | Aiming Action Score -10 |
 | Throwing Star, Large | 80 | 2d6 | 1d4 | Aiming Action Score -10 |
@@ -218,7 +242,9 @@ Range is Movement Speed + (Dexterity or Strength x 5) of the thrower.
 
 #### Ammo-Using Ranged Weapons
 
-Range is 2x Movement Speed of the shooter. Recharging one of the following uses an action.
+Range is 1x to 10x Movement Speed of the shooter. Shooting outside of that range incurs a Challenge Score increase of 5 per 5 ft outside of that range. Example: 20ft Movement Speed character. The range of one of the ranged weapons would be 20 ft to 200 ft. If the character tried to shoot at 5 ft range... 20-5 = 15. Challenge Score increase of 15. If the character tried to shoot at 215 ft range, 215-200 = 15. Challenge Score increase of 15.
+
+Recharging one of the following uses an action.
 
 | Item | Cost | Ranged Damage | Melee Damage | Ammo |
 |:----:|:----:|:-------------:|:------------:|:----:|
@@ -227,3 +253,14 @@ Range is 2x Movement Speed of the shooter. Recharging one of the following uses 
 | Bow, Self | 1,000 | 0.5x | 1d2 | Arrow |
 | Arbalest | 3,200 | 1.5x | 2d2 | Bolt |
 | Crossbow | 1,440 | 1x | 1d4 | Bolt |
+| Blowpipe | 740 | 1x | 1 | Dart |
+
+##### Ammo
+
+Ammo takes up 0.01 Inventory Space. Attempting to use them without their proper weapon will do a maximum of 1 damage. The material composition of the ammo plays a role in its damage as well.
+
+| Item | Cost | Damage |
+|:----:|:----:|:------:|
+| Arrow | 160 | 1d6 |
+| Bolt | 28 | 1d8 |
+| Dart | 2 | 1d4 |
