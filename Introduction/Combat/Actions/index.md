@@ -26,6 +26,8 @@ At the start of combat, your GM will inform you what the difficulty is for all t
 
 If an attack is successful, roll for damage before your second post and denote how much damage your target is taking.
 
+Should you decide to attack with an item that is not explicitly a weapon, or should you decide to throw an item in a way to cause damage, or should you decide to throw a non-throwing weapon, you would roll Aiming + Aiming; add on Strength for melee attacks and Dexterity for throwing attacks.
+
 ### Defend
 
 If you have nothing to defend yourself with, increase the Challenge Score to hit you by 5. If you have something to defend yourself with, use that instead to increase your Challenge Score. On a Wild Success, your defensive item is destroyed or you take 1.5x damage.
