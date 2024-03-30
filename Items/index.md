@@ -202,6 +202,7 @@ Melee weapons do a variable amount of damage depending on their composition. As 
 | Item | Cost | Damage | Two-Handed Effects |
 |:----:|:----:|:------:|:------------------:|
 | Axe | 160 | 2d8 | 1.5x damage |
+| Club | 340 | 2d6 | Aiming Action Score +5 |
 | Morning Star | 880 | 3d8 | Aiming Action Score +5 |
 | Scythe | 500 | 3d6 | 5x damage |
 | Sickle | 60 | 2d6 | Aiming Action Score +5 and 1.5x damage |
