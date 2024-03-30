@@ -20,6 +20,7 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 3. [Clothing](#clothing)
 4. [Accessibility Aids](#accessibility-aids)
 5. [Armor](#armor)
+6. [Weapons](#weapons)
 
 ## Food
 
@@ -159,8 +160,70 @@ Please keep in mind that synthetic armor may not be available in all settings. A
 
 ## Weapons
 
-Assuming you don't want to rely on your fists or incorporeal means for fighting, there are weapons.
+Assuming you don't want to rely on your fists or incorporeal means for fighting, there are weapons. Your GM may deem any of these weapons as not part of their game... and you should respect that.
+
+### Composition
+
+There may be other materials weapons may be made of - speak to your GM!
+
+| Material | Additional Damage | Cost | Effect |
+|:--------:|:------:|:----:|:------:|
+| Wood | -1 | 0.25x | May break on a Failure |
+| Gold | -1 | 5x | May break on a Caveat |
+| Plastic | -1 | 0.1x | May break on a Caveat, takes up 0.5 Inventory Space |
+| Iron or Steel | +0 | 1x | Unlikely to break on a Failure |
+| Silver | +0 | 2x | Unlikely to break on a Failure |
+| Titanium | +0 | 1.5x | Takes up 0.5 Inventory Space |
+| Shell | +1 | 0.25x | May break on a Caveat |
+| Ceramic | +2 | 0.5x | May break on a Caveat |
+| Gemstone | +5 | 2.5x | May break on a Caveat |
+| Obsidian | +10 | 5x | Will break on a Caveat |
 
 ### Melee
 
-Melee weapons do a variable amount of damage depending on their composition.
+Melee weapons do a variable amount of damage depending on their composition. As they are not thrown weapons, throwing one will cause them to do 0.5x damage and you must using Aiming without a sub-skill (Aiming+Aiming) to attempt a throw.
+
+| Item | Cost | Damage | Two-Handed Effects |
+|:----:|:----:|:------:|:------------------:|
+| Axe | 160 | 2d8 | 1.5x damage |
+| Scythe | 500 | 3d6 | 5x damage |
+| Sickle | 60 | 2d6 | Aiming Action Score +5 and 1.5x damage |
+| Sword, Broad | 1,640 | 1d20-5 | Aiming Action Score +5, +5 damage, x5 damage |
+| Sword, Thin (e.g., Rapier) | 800 | 3d4 | Aiming Action Score -5 and 1.5x damage |
+
+#### Extended
+
+These melee weapons have a range of 10 ft. and can hit up to two targets in a line from the combatant.
+
+### Ranged, Gun
+
+This... is up to your GM unless I, Gab, do some heavy research. Even with research, your GM may have their own ideas. Trust in your GM.
+
+### Ranged, Other
+
+#### Throwing Weapons
+
+Range is Movement Speed + (Dexterity or Strength x 5) of the thrower.
+
+| Item | Cost | Ranged Damage | Melee Damage | Two-Handed Effects |
+|:----:|:----:|:-------------:|:------------:|:------------------:|
+| Axe, Throwing | 480 | 2d8+2 | 1d8 | Aiming Action Score +5 |
+| Chakram | 287 | 3d4 | 1d12 | Aiming Action Score -10 |
+| Dagger | 240 | 2d2 | 2d2-1 | Aiming Action Score +5 and 2x damage |
+| Knife, Paring | 360 | 3d2 | 1d6-1 | Aiming Action Score +5 and 1.5x damage |
+| Throwing Star, Small | 20 | 1d8 | 1d4-2 | Aiming Action Score -10 |
+| Throwing Star, Medium | 40 | 2d4 | 1d4-1 | Aiming Action Score -10 |
+| Throwing Star, Large | 80 | 2d6 | 1d4 | Aiming Action Score -10 |
+| Throwing Star, Extra Large | 160 | 3d4 | 2d4-2 | Aiming Action Score -10 |
+
+#### Ammo-Using Ranged Weapons
+
+Range is 2x Movement Speed of the shooter. Recharging one of the following uses an action.
+
+| Item | Cost | Ranged Damage | Melee Damage | Ammo |
+|:----:|:----:|:-------------:|:------------:|:----:|
+| Bow, Long | 1,320 | 1.5x | 1d6 | Arrow |
+| Bow, Recurve | 1,080 | 1x | 1d4 | Arrow |
+| Bow, Self | 1,000 | 0.5x | 1d2 | Arrow |
+| Arbalest | 3,200 | 1.5x | 2d2 | Bolt |
+| Crossbow | 1,440 | 1x | 1d4 | Bolt |
