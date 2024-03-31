@@ -61,9 +61,9 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 | Thread, Synthetic | 1 spool | 3 |
 | Water, Fresh | 1 liter | 2 |
 | Water, Fresh | 1 gallon | 6 |
-| Wood, Common | 1 inch<sup>2</sup> | 9 |
-| Wood, Uncommon | 1 inch<sup>2</sup> | 18 |
-| Wood, Rare | 1 inch<sup>2</sup> | 30 |
+| Wood, Common | 1 inch<sup>3</sup> | 9 |
+| Wood, Uncommon | 1 inch<sup>3</sup> | 18 |
+| Wood, Rare | 1 inch<sup>3</sup> | 30 |
 | Yarn, Plant | 1 skein | 38 |
 | Yarn, Rare (e.g., silk) | 1 skein | 176 |
 | Yarn, Synthetic | 1 skein | 54 |
