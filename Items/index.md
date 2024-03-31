@@ -21,6 +21,7 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 4. [Accessibility Aids](#accessibility-aids)
 5. [Armor](#armor)
 6. [Weapons](#weapons)
+7. [Tools](#tools)
 
 ## Food
 
@@ -46,6 +47,7 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 | Bar of Metal, Gold | 1 lb | 128,000 |
 | Bar of Metal, Iron | 1 lb | 405 |
 | Bar of Metal, Silver | 1 lb | 1,440 |
+| Clay (air dry; not food safe) | 1 lb | 12 |
 | Cloth, Plant | 1 yard | 237 |
 | Cloth, Rare (e.g., silk) | 1 yard | 268 |
 | Cloth, Synthetic | 1 yard | 166 |
@@ -59,6 +61,9 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 | Thread, Synthetic | 1 spool | 3 |
 | Water, Fresh | 1 liter | 2 |
 | Water, Fresh | 1 gallon | 6 |
+| Wood, Common | 1 inch<sup>2</sup> | 9 |
+| Wood, Uncommon | 1 inch<sup>2</sup> | 18 |
+| Wood, Rare | 1 inch<sup>2</sup> | 30 |
 | Yarn, Plant | 1 skein | 38 |
 | Yarn, Rare (e.g., silk) | 1 skein | 176 |
 | Yarn, Synthetic | 1 skein | 54 |
@@ -173,7 +178,6 @@ Increases the Challenge Score to hit the user when they take the Defend action.
 | Tower, Leather, Studded | 1,750 | 13 |
 | Tower, Wooden | 1,000 | 11 |
 
-
 ## Weapons
 
 Assuming you don't want to rely on your fists or incorporeal means for fighting, there are weapons. Your GM may deem any of these weapons as not part of their game... and you should respect that.
@@ -265,3 +269,31 @@ Ammo takes up 0.01 Inventory Space. Attempting to use them without their proper 
 | Arrow | 160 | 1d6 |
 | Bolt | 28 | 1d8 |
 | Dart | 2 | 1d4 |
+
+## Tools
+
+These tools can be used for making other items. Speak to your GM to determine which ones you'll need for a given craft.
+
+| Item | Cost | Notes |
+|:----:|:----:|:-----:|
+| Anvil | 340 | 10 Inventory Space |
+| Beaker | 8 | None |
+| Crucible | 100 | 2 Inventory Space |
+| Hammer | 80 | None |
+| Knife, Butcher's | 80 | None |
+| Knife, Wood Carving | 80 | None |
+| Ladle | 36 | 0.5 Inventory Space |
+| Mortar and Pestle, Wooden | 60 | None |
+| Mortar and Pestle, Stone | 120 | None |
+| Needles, Crochet (2 total) | 1 | 0.25 Inventory Space |
+| Needles, Knitting (2 total) | 9 | 0.25 Inventory Space |
+| Needles, Sewing (7 total) | 1 | 0.25 Inventory Space |
+| Pliers | 6 | None |
+| Pan, Iron, Small | 56 | 0.5 Inventory Space |
+| Pan, Iron, Medium | 80 | None |
+| Pan, Iron, Large | 100 | 1.5 Inventory Space |
+| Pot, Iron, Small | 100 | 0.5 Inventory Space |
+| Pot, Iron, Medium | 180 | None |
+| Pot, Iron, Large | 600 | 1.5 Inventory Space |
+| Spatula | 28 | 0.5 Inventory Space |
+| Tongs | 120 | None |
