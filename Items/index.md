@@ -10,7 +10,9 @@ There are a variety of items that you can use in the game. The amount of startin
 
 Each item's value is determined based off of a food staple, such as rice, wheat, so on and so forth. The number you will see is not the price in a given currency, but how much it should cost compared to a food staple in a society like our own. <sub><sup>**Creator's Confession:** To get these costs, I looked them up, then divided the price found by the price for a cup of uncooked rice.</sup></sub>
 
-Each item takes up 1 Inventory Space, whether it is worn or not.
+Each item takes up 1 Inventory Space, whether it is worn or not, unless otherwise specified. Some items (like backpacks) will hold additional items for you.
+
+Please note there is not a 1-to-1 ratio between the cost of raw materials and the cost of something already-made.
 
 Lastly, just because the item is listed here does not mean your GM has to use it in their game. A GM can say "my game does not have guns" and that's the end of it. If they want to, they can say "my game doesn't have metal" and that's the end of that, too. Pay attention to your GM's rules.
 
