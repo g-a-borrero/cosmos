@@ -31,21 +31,21 @@ The standard domestic cat that grew up on Earth in a city environment. Change as
 #### Speed Per Environments
 
 * **zero-G**
-  	* Walking: 30 ft.
-  	* Flying: 0 ft.
-  	* Swimming: 10 ft.
+    * Walking: 30 ft.
+    * Flying: 0 ft.
+    * Swimming: 10 ft.
 * **Low-Gravity**
-  	* Walking: 55 ft.
-  	* Flying: 0 ft.
-  	* Swimming: 20 ft.
+    * Walking: 55 ft.
+    * Flying: 0 ft.
+    * Swimming: 20 ft.
 * **Earth-like Gravity**
- 	 * Walking: 45 ft.
- 	 * Flying: 0 ft.
- 	 * Swimming: 10 ft.
+    * Walking: 45 ft.
+    * Flying: 0 ft.
+    * Swimming: 10 ft.
 * **High Gravity**
- 	 * Walking: 25 ft.
- 	 * Flying: 0 ft.
- 	 * Swimming: 10 ft.
+    * Walking: 25 ft.
+    * Flying: 0 ft.
+    * Swimming: 10 ft.
 
 ### Factors
 
