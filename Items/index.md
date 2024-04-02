@@ -24,6 +24,8 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 5. [Armor](#armor)
 6. [Weapons](#weapons)
 7. [Tools](#tools)
+8. [Animals](#animals)
+9. [Vehicles](#vehicles)
 
 ## Food
 
@@ -323,3 +325,51 @@ Animals are not items, but they are purchased like them often.
 | Wild, Common | 100,000 | +1d damage, will try to attack on a Failure for Critter Control: Wild |
 | Wild, Uncommon | 250,000 | +1d damage, will try to attack on a Failure for Critter Control: Wild |
 | Wild, Rare | 1,000,000 | +1d damage, will try to attack on a Failure for Critter Control: Wild |
+
+## Vehicles
+
+Vehicles vary by setting amd additions. Your setting may not have wheels, for example. Speak with your GM. The cost of a vehicle also varies by setting and timeframe. Again, speak to your GM.
+
+### Pre-Industrialization
+
+| Vehicle | Cost |
+|:-------:|:----:|
+| Carriage, Small | 100,000 |
+| Carriage, Medium | 500,000 |
+| Carriage, Large | 10,000,000 |
+
+### Early Industrialization
+
+| Vehicle | Cost |
+|:-------:|:----:|
+| Car, Small, New | 60,000 |
+| Car, Medium, New | 105,000 |
+| Car, Large, New | 250,000 |
+| Carriage, Small | 10,000 |
+| Carriage, Medium | 50,000 |
+| Carriage, Large | 100,000 |
+
+### Late Industrialization
+
+| Vehicle | Cost |
+|:-------:|:----:|
+| Car, Small, New | 60,000 |
+| Car, Medium, New | 120,000 |
+| Car, Large, New | 240,000 |
+| Carriage, Small | 12,000 |
+| Carriage, Medium | 24,000 |
+| Carriage, Large | 48,000 |
+
+### Space Age Cusp
+
+| Vehicle | Cost |
+|:-------:|:----:|
+| Car, Small, New | 25,000 |
+| Car, Medium, New | 50,000 |
+| Car, Large, New | 100,000 |
+| Carriage, Small | 10,000 |
+| Carriage, Medium | 20,000 |
+| Carriage, Large | 40,000 |
+| Spaceship, Small | 8,800,000 |
+| Spaceship, Medium | 40,000,000 |
+| Spaceship, Large | 2,000,000,000 |
