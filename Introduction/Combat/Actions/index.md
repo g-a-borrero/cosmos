@@ -50,15 +50,7 @@ You may choose to use an item on yourself or a fellow PC if they are within 5 ft
 
 ### Movement
 
-Your character may move using Flying, Swimming, or Walking depending on their environment. Indicate which direction they are going and how far. The maximum movement you can make is based on your individual character and their current environment.
-
-#### Climbing
-
-Climbing Speed is equal to half your last used Movement (Walking, Flying, Swimming, Jumping) unless you have the [Climber](/Factors/Traits/Climber) trait.
-
-#### Jumping
-
-Jumping Speed is equal to half your last used Movement (Walking, Flying, Swimming, Climbing) unless you have the [Jumper](/Factors/Traits/Jumper) trait.
+Your character may move using Flying, Swimming, or Walking depending on their environment. Indicate which direction they are going and how far. The maximum movement you can make is based on your individual character and their current environment. (Read more about [movement](/Introduction/Movement/).)
 
 ### Reload
 
