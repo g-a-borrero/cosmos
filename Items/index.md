@@ -299,3 +299,27 @@ These tools can be used for making other items. Speak to your GM to determine wh
 | Pot, Iron, Large | 600 | 1.5 Inventory Space |
 | Spatula | 28 | 0.5 Inventory Space |
 | Tongs | 120 | None |
+
+## Animals
+
+Animals are not items, but they are purchased like them often.
+
+| Kind | Cost | Functionality |
+|:----:|:----:|:-------------:|
+| Pet, Mixed Breed | 400 | None |
+| Pet, Purebred, Common | 4,000 | Can be used in shows |
+| Pet, Purebred, Uncommon | 10,000 | Can be used in shows |
+| Pet, Purebred, Rare | 40,000 | Can be used in shows |
+| Burden, Mixed Breed | 2,000 | Have an additional 10 Inventory Space |
+| Burden, Purebred | 10,000 | Have an additional 10 Inventory Space, can be used in shows |
+| Domesticated, Mixed Breed | 400 | Produces either milk, wool, or fur, and/or can be slaughtered for meat |
+| Domesticated, Purebred, Common | 400 | Produces either milk, wool, or fur, and/or can be slaughtered for meat, can be used in shows |
+| Domesticated, Purebred, Uncommon | 8,000 | Produces either milk, wool, or fur, and/or can be slaughtered for meat, can be used in shows |
+| Domesticated, Purebred, Rare | 160,000 | Produces either milk, wool, or fur, and/or can be slaughtered for meat, can be used in shows |
+| Mount, Mixed Breed | 12,000 | Have an additional 5 Inventory Space and add their base Movement Speed to their primary Speed |
+| Mount, Purebred, Common | 60,000 | Have an additional 5 Inventory Space, add their base Movement Speed to their primary Speed, can be used in shows |
+| Mount, Purebred, Uncommon | 100,000 | Have an additional 5 Inventory Space, add their base Movement Speed to their primary Speed, can be used in shows |
+| Mount, Purebred, Rare | 400,000 | Have an additional 5 Inventory Space, add their base Movement Speed to their primary Speed, can be used in shows |
+| Wild, Common | 100,000 | +1d damage, will try to attack on a Failure for Critter Control: Wild |
+| Wild, Uncommon | 250,000 | +1d damage, will try to attack on a Failure for Critter Control: Wild |
+| Wild, Rare | 1,000,000 | +1d damage, will try to attack on a Failure for Critter Control: Wild |
