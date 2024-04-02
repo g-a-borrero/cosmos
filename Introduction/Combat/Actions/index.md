@@ -50,7 +50,7 @@ You may choose to use an item on yourself or a fellow PC if they are within 5 ft
 
 ### Movement
 
-Your character may move using Flying, Swimming, or Walking depending on their environment. Indicate which direction they are going and how far. The maximum movement you can make is based on your individual character and their current environment. (Read more about [movement](/Introduction/Movement/).)
+Your character may move using Flying, Swimming, or Walking depending on their environment. Indicate which direction they are going and how far. The maximum movement you can make is based on your individual character and their current environment. (Read more about [movement](/cosmos/Introduction/Movement/).)
 
 ### Reload
 
