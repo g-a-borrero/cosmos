@@ -313,7 +313,7 @@ Animals are not items, but they are purchased like them often.
 | Burden, Mixed Breed | 2,000 | Have an additional 10 Inventory Space |
 | Burden, Purebred | 10,000 | Have an additional 10 Inventory Space, can be used in shows |
 | Domesticated, Mixed Breed | 400 | Produces either milk, wool, or fur, and/or can be slaughtered for meat |
-| Domesticated, Purebred, Common | 400 | Produces either milk, wool, or fur, and/or can be slaughtered for meat, can be used in shows |
+| Domesticated, Purebred, Common | 2,000 | Produces either milk, wool, or fur, and/or can be slaughtered for meat, can be used in shows |
 | Domesticated, Purebred, Uncommon | 8,000 | Produces either milk, wool, or fur, and/or can be slaughtered for meat, can be used in shows |
 | Domesticated, Purebred, Rare | 160,000 | Produces either milk, wool, or fur, and/or can be slaughtered for meat, can be used in shows |
 | Mount, Mixed Breed | 12,000 | Have an additional 5 Inventory Space and add their base Movement Speed to their primary Speed |
