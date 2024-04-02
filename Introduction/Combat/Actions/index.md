@@ -30,6 +30,10 @@ If an attack is successful, roll for damage before your second post and denote h
 
 Should you decide to attack with an item that is not explicitly a weapon, or should you decide to throw an item in a way to cause damage, or should you decide to throw a non-throwing weapon, you would roll Aiming + Aiming; add on Strength for melee attacks and Dexterity for throwing attacks.
 
+#### Brawling
+
+If you don't want to use a weapon, you can use your fists. To do so, you would do an Aiming + Melee Skill Check and add Dexterity. If you succeed, damage is equal to 1d(Strength). So if your strength is 0, you do 0 damage; if your strength is 5, you do 1d5 damage; if your strength is 10, you do 1d10 damage.
+
 ### Defend
 
 If you have nothing to defend yourself with, increase the Challenge Score to hit you by 5. If you have something to defend yourself with, use that instead to increase your Challenge Score. On a Wild Success, your defensive item is destroyed or you take 1.5x damage.
@@ -47,6 +51,14 @@ You may choose to use an item on yourself or a fellow PC if they are within 5 ft
 ### Movement
 
 Your character may move using Flying, Swimming, or Walking depending on their environment. Indicate which direction they are going and how far. The maximum movement you can make is based on your individual character and their current environment.
+
+#### Climbing
+
+Climbing Speed is equal to half your last used Movement (Walking, Flying, Swimming, Jumping) unless you have the [Climber](/Factors/Traits/Climber) trait.
+
+#### Jumping
+
+Jumping Speed is equal to half your last used Movement (Walking, Flying, Swimming, Climbing) unless you have the [Jumper](/Factors/Traits/Jumper) trait.
 
 ### Reload
 
