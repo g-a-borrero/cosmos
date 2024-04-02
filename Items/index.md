@@ -328,7 +328,7 @@ Animals are not items, but they are purchased like them often.
 
 ## Vehicles
 
-Vehicles vary by setting amd additions. Your setting may not have wheels, for example. Speak with your GM. The cost of a vehicle also varies by setting and timeframe. Again, speak to your GM.
+Vehicles vary by setting amd additions. Your setting may not have wheels, for example. Speak with your GM. The cost of a vehicle also varies by setting and timeframe. Again, speak to your GM. Below are vehicles that take 10 people or less. For larger vehicles, such as ships of the sea and space faring kind... reconsider. Please reconsider. Please don't make me price it out. Your GM may be willing, but I am begging you as the COSMOS's creator, have mercy.
 
 ### Pre-Industrialization
 
