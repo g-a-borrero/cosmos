@@ -21,11 +21,12 @@ Lastly, just because the item is listed here does not mean your GM has to use it
 2. [Materials](#materials)
 3. [Clothing](#clothing)
 4. [Accessibility Aids](#accessibility-aids)
-5. [Armor](#armor)
-6. [Weapons](#weapons)
-7. [Tools](#tools)
-8. [Animals](#animals)
-9. [Vehicles](#vehicles)
+5. [Accessories](#accessories)
+6. [Armor](#armor)
+7. [Weapons](#weapons)
+8. [Tools](#tools)
+9. [Animals](#animals)
+10. [Vehicles](#vehicles)
 
 ## Food
 
@@ -278,29 +279,30 @@ Ammo takes up 0.01 Inventory Space. Attempting to use them without their proper 
 
 These tools can be used for making other items. Speak to your GM to determine which ones you'll need for a given craft.
 
-| Item | Cost | Notes |
+| Item | Cost | Inventory Space |
 |:----:|:----:|:-----:|
-| Anvil | 340 | 10 Inventory Space |
-| Beaker | 8 | None |
-| Crucible | 100 | 2 Inventory Space |
-| Hammer | 80 | None |
-| Knife, Butcher's | 80 | None |
-| Knife, Wood Carving | 80 | None |
-| Ladle | 36 | 0.5 Inventory Space |
-| Mortar and Pestle, Wooden | 60 | None |
-| Mortar and Pestle, Stone | 120 | None |
-| Needles, Crochet (2 total) | 1 | 0.25 Inventory Space |
-| Needles, Knitting (2 total) | 9 | 0.25 Inventory Space |
-| Needles, Sewing (7 total) | 1 | 0.25 Inventory Space |
-| Pliers | 6 | None |
-| Pan, Iron, Small | 56 | 0.5 Inventory Space |
-| Pan, Iron, Medium | 80 | None |
-| Pan, Iron, Large | 100 | 1.5 Inventory Space |
-| Pot, Iron, Small | 100 | 0.5 Inventory Space |
-| Pot, Iron, Medium | 180 | None |
-| Pot, Iron, Large | 600 | 1.5 Inventory Space |
-| Spatula | 28 | 0.5 Inventory Space |
-| Tongs | 120 | None |
+| Anvil | 340 | 10 |
+| Beaker | 8 | 1 |
+| Crucible | 100 | 2 |
+| Hammer | 80 | 1 |
+| Knife, Butcher's | 80 | 1 |
+| Knife, Wood Carving | 80 | 1 |
+| Ladle | 36 | 0.5 |
+| Mortar and Pestle, Wooden | 60 | 1 |
+| Mortar and Pestle, Stone | 120 | 1 |
+| Needles, Crochet (2 total) | 1 | 0.25 |
+| Needles, Knitting (2 total) | 9 | 0.25 |
+| Needles, Sewing (7 total) | 1 | 0.25 |
+| Pliers | 6 | 1 |
+| Pan, Iron, Small | 56 | 0.5 |
+| Pan, Iron, Medium | 80 | 1 |
+| Pan, Iron, Large | 100 | 1.5 |
+| Pot, Iron, Small | 100 | 0.5 |
+| Pot, Iron, Medium | 180 | 1 |
+| Pot, Iron, Large | 600 | 1.5 |
+| Spatula | 28 | 0.5 |
+| Tongs | 120 | 1 |
+| Vial (10) | 8 | 1 |
 
 ## Animals
 
@@ -332,11 +334,11 @@ Vehicles vary by setting amd additions. Your setting may not have wheels, for ex
 
 ### Pre-Industrialization
 
-| Vehicle | Cost |
-|:-------:|:----:|
-| Carriage, Small | 100,000 |
-| Carriage, Medium | 500,000 |
-| Carriage, Large | 10,000,000 |
+| Vehicle | Cost | Maximum Non-Object Entitities | Beasts of Burden | Inventory Space |
+|:-------:|:----:|:-----------------------------:|:----------------:|:---------------:|
+| Carriage, Small | 100,000 | 2 | 1 | 50 |
+| Carriage, Medium | 500,000 | 6 | 2 | 75 |
+| Carriage, Large | 10,000,000 | 10 | 2 | 100 |
 
 ### Early Industrialization
 
