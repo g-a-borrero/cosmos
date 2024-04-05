@@ -17,6 +17,6 @@ Can take more than once. One way or another, whether through time passing, activ
   * Magic
   * Psi
   * Theurgy
-* Pick one Statistic, gain + 5:
+* Pick one Statistic, gain + 1:
   * Energy
   * Theurgy
