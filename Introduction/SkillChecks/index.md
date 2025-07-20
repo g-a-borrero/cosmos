@@ -18,7 +18,7 @@ Luckily, this game is run using the Power of the Internet (TM) so the dice being
 
 ## How it Works
 
-You have your action dice - between one and fifteen 20-sided die - and your two 100-sided challenge die.
+You have your action dice - between one and ten 20-sided die - and your two 100-sided challenge die.
 
 1. Ask your GM what the check entails. They will tell you which skill and statistic to use.
 2. Determine how many Action Dice you will be rolling. This is done by looking at your Skills and Sub-Skills. You will be rolling 1 + the number for a given Skill total die + the number for a given Sub-Skill of that Skill if applicable. This is a maximum of 10 die.
@@ -34,7 +34,7 @@ If two or more of your group would like to attempt a Skill Check, the mechanism 
 
 1. The group's average Skill Value for a given Skill is calculated.
 2. Add on everyone's bonuses (for example, [Stalwart](/cosmos/Factors/Traits/Stalwart)).
-3. That Skill Value, plus one, is the number of die you will be rolling - up to a maximum of 15.
+3. That Skill Value, plus one, is the number of die you will be rolling - up to a maximum of 10.
 4. Decide who is doing the rolling and roll the Action Die.
 5. Add on the relevant, agreed upon Statistic from the entire group. This is your Action Score.
 6. Roll the Challenge Die.
