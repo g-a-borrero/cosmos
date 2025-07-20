@@ -7,7 +7,7 @@ nav_order: 5
 
 # Character Creation
 
-[This Character Sheet](https://docs.google.com/spreadsheets/d/1Olt3hcuoJQkOyyBNUh02fUZrBF__KgPm9EAcEBnHEwE/edit?usp=sharing) can help you create a character from scratch. You will need to make a copy of the document to your Google Drive. Please keep in mind this only handles mechanics - your backstory and relationships should be handled in a separate document.
+[This Character Sheet](https://docs.google.com/spreadsheets/d/1VPXXCyO4wewCdtU_ieo88l3QJl4NqouRFuo75SmuRNk/edit?usp=sharing) can help you create a character from scratch. You will need to make a copy of the document to your Google Drive. Please keep in mind this only handles mechanics - your backstory and relationships should be handled in a separate document.
 
 The steps you use to make a character are as follows:
 
@@ -35,7 +35,7 @@ Go through the following Factors in order, assigning them to your character as y
 
 ## Skills
 
-You have 50 points points to allocate into Skills as you see fit. One Skill point may be split into two Sub-Skill points. You can have no more than a value of 7 in an individual Skill or Sub-Skill. (7 Diplomacy, 7 Diplomacy: Charity.)
+You have 25 points points to allocate into Skills as you see fit. One Skill point may be split into two Sub-Skill points. You can have no more than a value of 3 in an individual Skill or 6 in a Sub-Skill. (3 Diplomacy, 6 Diplomacy: Charity.)
 
 A Skill value of 4 gives you five (5) dice to roll for that Skill, which is essentially a coinflip.
 
