@@ -12,8 +12,8 @@ You may decide to use the chart below to modify the starting Statistic and Skill
 
 | Creatures | Statistic Points | Skill Points |
 |:---------:|:----------------:|:------------:|
-| Domestic Animal | 5 | 15 |
-| Intelligent Animal | 10 | 25 |
-| Human-like | 15 | 50 |
-| Superhuman | 25 | 75 |
-| God-like | 50 | 100 |
+| Domestic Animal | 5 | 10 |
+| Intelligent Animal | 10 | 18 |
+| Human-like | 15 | 25 |
+| Superhuman | 25 | 50 |
+| God-like | 50 | 75 |
