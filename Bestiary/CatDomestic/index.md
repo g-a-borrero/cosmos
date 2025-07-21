@@ -68,15 +68,12 @@ The standard domestic cat that grew up on Earth in a city environment. Change as
 
 ### Skills
 
-* Aiming = 3
-* Aiming: Melee = 7
-* Critter Control = 1
-* Diplomacy = 2
+* Aiming: Melee = 6
 * Diplomacy: Allure = 2
 * Diplomacy: Charity = 1
 * Intuition: Analyze = 1
 * Intuition: Visceral = 2
 * Sneaking = 1
-* Camouflage = 5
+* Sneaking: Camouflage = 2
 * Survival = 1
-* Urban = 5
+* Survival: Urban = 2
